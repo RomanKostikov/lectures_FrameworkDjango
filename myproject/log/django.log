@@ -1,0 +1,27 @@
+Watching for file changes with StatReloader
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /prefix/about/ HTTP/1.1" 200 27
+"GET /prefix/ HTTP/1.1" 200 13
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+"GET /prefix/ HTTP/1.1" 200 13
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp\views.py", line 32, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+"GET /prefix/about/ HTTP/1.1" 200 27
+C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-10 16:55:29,324 autoreload 14156 16700 Watching for file changes with StatReloader
+ERROR 2024-01-10 16:55:39,894 views 14156 9472 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp\views.py", line 32, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+INFO 2024-01-10 16:55:39,895 basehttp 14156 9472 "GET /prefix/about/ HTTP/1.1" 200 27
+INFO 2024-01-10 16:55:46,977 views 14156 9472 Index page accessed
+INFO 2024-01-10 16:55:46,977 basehttp 14156 9472 "GET /prefix/ HTTP/1.1" 200 13
