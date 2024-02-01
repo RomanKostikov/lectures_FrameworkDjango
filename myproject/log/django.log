@@ -625,3 +625,70 @@ INFO 2024-01-29 15:37:00,643 basehttp 2792 2632 "GET /admin/jsi18n/ HTTP/1.1" 20
 INFO 2024-01-29 15:37:03,717 basehttp 2792 2632 "GET /admin/myapp_5/product/2/change/ HTTP/1.1" 200 15785
 INFO 2024-01-29 15:37:03,747 basehttp 2792 2632 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
 INFO 2024-01-29 15:37:03,833 basehttp 2792 7648 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-01-31 21:30:04,763 autoreload 16640 22908 Watching for file changes with StatReloader
+INFO 2024-01-31 21:30:21,755 basehttp 16640 10928 "GET / HTTP/1.1" 200 10036
+INFO 2024-01-31 21:30:21,803 basehttp 16640 10928 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-01-31 21:30:21,804 basehttp 16640 22776 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2024-01-31 21:30:21,828 basehttp 16640 22776 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-01-31 21:30:21,841 basehttp 16640 22776 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2024-01-31 21:31:07,234 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=HistoryPanel HTTP/1.1" 200 2505
+INFO 2024-01-31 21:31:07,241 basehttp 16640 22776 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2024-01-31 21:31:15,100 basehttp 16640 22776 "GET /__debug__/history_sidebar/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&exclude_history=True HTTP/1.1" 200 10769
+INFO 2024-01-31 21:31:17,075 basehttp 16640 22776 "GET /__debug__/history_sidebar/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&exclude_history=True HTTP/1.1" 200 10769
+INFO 2024-01-31 21:31:29,777 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=VersionsPanel HTTP/1.1" 200 761
+INFO 2024-01-31 21:31:46,061 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=SettingsPanel HTTP/1.1" 200 27129
+INFO 2024-01-31 21:32:02,392 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=HeadersPanel HTTP/1.1" 200 5266
+INFO 2024-01-31 21:32:47,993 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=RequestPanel HTTP/1.1" 200 1820
+INFO 2024-01-31 21:33:26,316 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=SQLPanel HTTP/1.1" 200 16373
+INFO 2024-01-31 21:34:14,638 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=StaticFilesPanel HTTP/1.1" 200 38585
+INFO 2024-01-31 21:34:57,658 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=TemplatesPanel HTTP/1.1" 200 6350
+INFO 2024-01-31 21:35:26,433 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2024-01-31 21:35:32,543 basehttp 16640 22776 "GET /__debug__/render_panel/?store_id=c30560fbc3a947f09f8ecc20bb9c71d2&panel_id=SignalsPanel HTTP/1.1" 200 2231
+INFO 2024-01-31 21:37:02,806 basehttp 16640 22776 "GET /les4/user/add HTTP/1.1" 200 11056
+INFO 2024-01-31 21:37:02,848 basehttp 16640 22776 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:02,849 basehttp 16640 20456 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:02,850 basehttp 16640 22500 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:02,864 basehttp 16640 22500 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-01-31 21:37:06,268 basehttp 16640 22500 "GET /__debug__/render_panel/?store_id=9050f7d91cc540edb5f0f3eb18b28565&panel_id=ProfilingPanel HTTP/1.1" 200 45209
+INFO 2024-02-01 17:17:12,331 autoreload 3588 16560 Watching for file changes with StatReloader
+INFO 2024-02-01 17:18:01,255 autoreload 3588 16560 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myapp_6\views.py changed, reloading.
+INFO 2024-02-01 17:18:01,915 autoreload 21976 2780 Watching for file changes with StatReloader
+INFO 2024-02-01 17:18:13,166 basehttp 21976 22104 "GET / HTTP/1.1" 200 10483
+INFO 2024-02-01 17:18:13,204 basehttp 21976 22104 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-02-01 17:18:13,204 basehttp 21976 18092 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-02-01 17:18:13,268 basehttp 21976 18092 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-02-01 17:18:13,295 basehttp 21976 18092 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-02-01 17:18:13,543 log 21976 18092 Not Found: /favicon.ico
+WARNING 2024-02-01 17:18:13,544 basehttp 21976 18092 "GET /favicon.ico HTTP/1.1" 404 12954
+WARNING 2024-02-01 17:18:42,015 log 21976 18092 Not Found: /les6/
+WARNING 2024-02-01 17:18:42,015 basehttp 21976 18092 "GET /les6/ HTTP/1.1" 404 13339
+INFO 2024-02-01 17:18:55,508 basehttp 21976 18092 "GET /les6/db HTTP/1.1" 200 10827
+INFO 2024-02-01 17:18:55,556 basehttp 21976 22104 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2024-02-01 17:19:24,310 basehttp 21976 22104 "GET /les6/db/ HTTP/1.1" 200 10588
+INFO 2024-02-01 17:19:55,372 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=0af5c3315d1d4b8e8aa8d9f93c2a666b&panel_id=SQLPanel HTTP/1.1" 200 5563
+INFO 2024-02-01 17:20:37,335 basehttp 21976 22104 "GET /les6/view/ HTTP/1.1" 200 10573
+INFO 2024-02-01 17:20:42,698 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=5835f6dd0b574cc28595d26049a902c9&panel_id=RequestPanel HTTP/1.1" 200 1882
+INFO 2024-02-01 17:20:47,502 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=5835f6dd0b574cc28595d26049a902c9&panel_id=SQLPanel HTTP/1.1" 200 6791
+INFO 2024-02-01 17:21:00,689 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=5835f6dd0b574cc28595d26049a902c9&panel_id=ProfilingPanel HTTP/1.1" 200 46176
+INFO 2024-02-01 17:21:40,551 basehttp 21976 22104 "GET /les6/template/ HTTP/1.1" 200 10557
+INFO 2024-02-01 17:21:48,383 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=SQLPanel HTTP/1.1" 200 27801
+INFO 2024-02-01 17:22:03,851 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=TemplatesPanel HTTP/1.1" 200 7042
+INFO 2024-02-01 17:22:29,764 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=ProfilingPanel HTTP/1.1" 200 35917
+INFO 2024-02-01 17:23:19,027 basehttp 21976 22104 "GET /__debug__/render_panel/?store_id=8c2a22fbf20542b09d5f60680f12bc9f&panel_id=HistoryPanel HTTP/1.1" 200 12364
+INFO 2024-02-01 17:23:19,053 basehttp 21976 22104 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3330
+INFO 2024-02-01 17:44:31,453 autoreload 21976 2780 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:44:32,640 autoreload 8928 8472 Watching for file changes with StatReloader
+INFO 2024-02-01 17:45:59,576 autoreload 8928 8472 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:46:00,384 autoreload 21808 24376 Watching for file changes with StatReloader
+INFO 2024-02-01 17:46:46,467 autoreload 21808 24376 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:46:47,156 autoreload 2912 20996 Watching for file changes with StatReloader
+INFO 2024-02-01 17:47:12,188 autoreload 2912 20996 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:47:13,000 autoreload 16264 9892 Watching for file changes with StatReloader
+INFO 2024-02-01 17:47:55,702 autoreload 16264 9892 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:47:56,493 autoreload 17036 11996 Watching for file changes with StatReloader
+INFO 2024-02-01 17:48:24,582 autoreload 17036 11996 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 17:48:25,405 autoreload 9772 12116 Watching for file changes with StatReloader
+INFO 2024-02-01 18:23:05,994 autoreload 9772 12116 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 18:23:06,735 autoreload 20612 15736 Watching for file changes with StatReloader
+INFO 2024-02-01 18:25:57,114 autoreload 20612 15736 C:\Users\roman\Desktop\Work for IT\GeekBrains\lecture\FrameworkDjango\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-01 18:25:57,757 autoreload 3932 14504 Watching for file changes with StatReloader
