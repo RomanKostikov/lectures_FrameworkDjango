@@ -162,3 +162,38 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/username/myproject.git
 git push -u origin master
 git clone https://github.com/myusername/myproject.git
+
+#### Настройка проекта на сервере
+
+После завершения клонирования остаёмся в консоли, запускаем команду
+на создание виртуального окружения и добавления пакетов.
+По завершению работы в консоли создаём веб приложение с ручной конфигурацией
+mkvirtualenv --python=/usr/bin/python3.10 virtualenv
+cd myproject
+pip install -r requirements.txt
+
+#### Настройки веб приложения
+
+Виртуальное окружение и
+рабочие каталоги
+Заполняем поля на сайте
+
+wsgi файл облачного сервера
+Правим wsgi файл в редакторе
+
+Сохраняем “секреты” для
+приложения и для консоли
+● Генерируем секреты
+● Сохраняем в .env
+● Подключаем .env в
+консоли
+
+#### Финальные команды
+
+Завершаем настройку веб-приложения в облаке.
+
+python manage.py migrate
+python manage.py collectstatic
+python manage.py createsuperuser
+Помним о обязательной перезагрузке
+для применения изменений 
