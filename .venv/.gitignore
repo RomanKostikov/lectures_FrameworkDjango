@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/media/
+/static/
+*.sqlite3
+*.log
+*.pyc
+

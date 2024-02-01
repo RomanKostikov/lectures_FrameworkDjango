@@ -139,3 +139,26 @@ urlpatterns = [
 /# path('__debug__/', include("debug_toolbar.urls")),
 ...
 ]
+
+#### Репозиторий GitHub
+
+git clone https://github.com/myusername/myproject.git
+Скорее всего вы уже создали репозиторий на github с вашим проектом.
+Добавьте в него финальные изменения проекта, чтобы клонировать в pythonanywhere командой
+
+#### Шпаргалка по Git
+
+Список команд и действий для тех, кто не использовал GitHub
+git init
+.gitignore
+○ /media/
+○ /static/
+○ *.sqlite3
+○ *.log
+○ *.pyc
+git add *
+git commit -m "Initial commit"
+Создаём пустой репозиторий на сайте https://github.com/
+git remote add origin https://github.com/username/myproject.git
+git push -u origin master
+git clone https://github.com/myusername/myproject.git
